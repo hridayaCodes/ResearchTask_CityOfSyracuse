@@ -1,6 +1,8 @@
 # 🍊 Syracuse City Guide
 
 > An AI-powered visitor guide and open data dashboard for Syracuse, New York — built using real datasets from the City of Syracuse Open Data Portal.
+> Note: This repository includes only sample datasets for demonstration.
+Full datasets are available from the City of Syracuse Open Data Portal and other public APIs.
 
 ---
 
